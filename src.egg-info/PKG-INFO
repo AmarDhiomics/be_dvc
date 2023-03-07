@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/AmarDhiomics/be_dvc.git
+Author: Amar
+Author-email: sunny.c17hawke@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# be_dvc
+# init git, dvc 
+# create emoty files setup,dv.yaml,params.yaml,base.py
+# crete config directory with  empty files config.yaml,secrets.yaml
+# empty files src/init.py src/utils/init.py src/stage_01_load_saves.py src/utils/all_util.py
