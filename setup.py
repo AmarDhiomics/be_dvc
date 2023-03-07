@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf-8") as f:
 setup(
     name="src",
     version="0.0.1",
-    author="c17hawke",
+    author="Amar",
     description="A small package for dvc ml pipeline demo",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/c17hawke/dvc-ML-demo-AIOps",
+    url="https://github.com/AmarDhiomics/be_dvc.git",
     author_email="sunny.c17hawke@gmail.com",
     packages=["src"],
     python_requires=">=3.7",
