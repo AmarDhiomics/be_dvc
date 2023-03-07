@@ -1,3 +1,7 @@
 dvc
 pandas
 numpy
+tensorflow
+tqdm
+pyYAML
+boto3
