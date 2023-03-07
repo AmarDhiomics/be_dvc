@@ -5,3 +5,4 @@ tensorflow
 tqdm
 pyYAML
 boto3
+matplotlib
